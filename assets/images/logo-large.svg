@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="192" width="192" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 192.00001 192">
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -860.36)">
+  <flowRoot id="flowRoot4194" font-size="40px" xml:space="preserve" style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-family="sans-serif" fill="#000000"><flowRegion id="flowRegion4196"><rect id="rect4198" y="125.55" width="377.8" x="488.91" height="141.93"/></flowRegion><flowPara id="flowPara4200"/></flowRoot>
+  <path id="path4602" transform="matrix(-3.068 0 0 -2.2194 53.047 -999.7)" fill="#b53737" d="m-14-854.35-15.594-27.01-15.594-27.01h31.189 31.189l-15.594 27.01z"/>
+ </g>
+ <g id="layer2" display="none">
+  <text id="text4196-2-5" style="word-spacing:0px;letter-spacing:0px" line-height="100%" xml:space="preserve" transform="matrix(1.0352 0 0 .96601 0 -860.36)" font-size="138.07px" y="1030.0186" x="91.97879" font-family="sans-serif" display="inline" fill="#f9f9f9"><tspan id="tspan4200-9-0" style="text-anchor:middle;text-align:center" font-weight="500" font-size="60.404px" line-height="100%" y="1030.0186" x="91.97879" font-family="Orbitron" fill="#f9f9f9">bp</tspan></text>
+ </g>
+ <g id="layer3">
+  <text id="text4196" style="word-spacing:0px;letter-spacing:0px" line-height="100%" font-weight="300" xml:space="preserve" transform="scale(1.1138 .89780)" font-size="24.363px" y="140.22137" x="86.947723" font-family="Orbitron" fill="#f9f9f9"><tspan id="tspan4198" style="text-anchor:middle;text-align:center" line-height="100%" y="140.22137" x="86.947723">burglar</tspan><tspan id="tspan4200" style="text-anchor:middle;text-align:center" line-height="100%" y="164.40271" x="86.947723">protected</tspan></text>
+ </g>
+</svg>
