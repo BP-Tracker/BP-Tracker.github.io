@@ -1,42 +1,58 @@
 /*@font-face {
-  font-family: 'X-Scale';
-  src: url('../fonts/X-SCALE_.TTF') format('truetype');
+  font-family: 'Orbitron';
+  src: url('../fonts/orbitron-medium.oft');
 }*/
 
-
-/* Space out content a bit */
 body {
   padding-top: 51px;
   font-family: 'Open Sans',Arial,sans-serif;
-  /*padding-bottom: 20px;*/
   background-color: #F9F9F9;
   color: #555;
 }
 
-
-
-footer {
-  background: #555;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
-  /*padding-top: 10px;
-  padding-bottom: 10px;*/
-  /*padding-left: 50px;
-  padding-right: 50px;*/
-
+header section {
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
-#content-index {
-  /*margin-left: 60px;*/
-  /*padding-top: 50px;*/
+nav.navbar-default {
+  background: white;
 }
+
+
+/* images */
+img#android-device-list {
+  width: 500px;
+}
+
+img#android-device-status {
+  width: 300px;
+}
+
+img#electron {
+  height: 300px;
+}
+
+img#electron-kit {
+  width: 400px;
+}
+
+img#dashboard {
+  width: 600px;
+}
+
+img#bpt-motorcycle {
+  width:325px;
+  border-left: 2px solid #555;
+}
+
 
 .content hr {
   margin-top: 0px;
 }
 
 .content > div.row {
-  margin-left: 60px;/* TODO: use media query here? */
+  margin-left: 60px;
   margin-top: 20px;
 }
 
@@ -47,7 +63,6 @@ footer {
 .card-detail {
   vertical-align: middle;
   min-width: 300px;
-  /*border: 1px solid;*/
 }
 
 .card-detail > .list-group > .list-group-item {
@@ -57,14 +72,10 @@ footer {
   padding-left: 0px;
 }
 
-.card-image {
-  /*border: 1px solid;*/
-
-}
-
-header section {
-  padding-left: 50px;
-  padding-right: 50px;
+footer {
+  background: #555;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
 }
 
 footer section {
@@ -90,15 +101,6 @@ footer a:hover {
   color: #fff;
 }
 
-
-
-nav.navbar-default {
-  background: white;
-}
-
-
-
-
 .motorcycle-icon {
   width: 45px;
 }
@@ -111,14 +113,63 @@ nav.navbar-default {
 
 .logo {
 	position: absolute;
-	z-index: 2;
-	width: 36px;
-	padding: 7px;
-	height: 36px;
-	background: no-repeat center url(/assets/images/logo.svg);
-	display: block;
+	width: 54px;
+	height: 54px;
+  /*https://rawgit.com/BP-Tracker/BP-Tracker.github.io/master/assets/images/logo-small.svg */
+	background: no-repeat center url(https://rawgit.com/BP-Tracker/BP-Tracker.github.io/master/assets/images/logo-small.svg);
 	margin: 0 auto;
 	left: 0;
 	right: 0;
 	top: 0;
 }
+
+/* Extra small devices 768px */
+@media screen and (max-width: 600px) {
+  .content > div.row {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+
+  img#android-device-list {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
+  }
+
+  img#dashboard {
+    width: 300px;
+  }
+
+  img#electron {
+    height: 150px;
+  }
+  img#electron-kit {
+    width: 200px;
+  }
+
+  img#bpt-motorcycle {
+    width:225px;
+    border-left: 2px solid #555;
+  }
+}
+
+
+
+
+
+
+
+
+/*padding-top: 10px;
+padding-bottom: 10px;*/
+/*padding-left: 50px;
+padding-right: 50px;*/
+  /*border: 1px solid;*/
+
+
+/* device screenshot intro */
+/*#content-index div.intro > div.card-image {
+  width: 500px;
+}*/
