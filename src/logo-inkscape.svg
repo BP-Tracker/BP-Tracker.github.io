@@ -11,6 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="192"
    height="192"
+   preserveAspectRatio="xMidYMid slice"
    viewBox="0 0 192.00001 192"
    id="svg2"
    version="1.1"
