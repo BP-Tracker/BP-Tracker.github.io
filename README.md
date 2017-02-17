@@ -1,13 +1,19 @@
 BP Tracker
 ==========
 
-[![Build Unstable][shield-unstable]](#)
+[![Status][shield-unstable]](#)
 [![MIT licensed][shield-license]](#)
 
-This project is still work in progress. More details to come.
+Progress
+-----------------
+The Android app is undergoing changes to the map screen and
+overall notification logic.
+
 
 Overview
 -----------------
+
+More to come...
 
 <img width="200px" src="https://rawgit.com/BP-Tracker/BP-Tracker.github.io/master/assets/images/network-overview.png" alt="Network overview" />
 
@@ -22,7 +28,7 @@ Support and Releases
 
 No releases yet.
 
-[shield-unstable]: https://img.shields.io/badge/build-unstable-red.svg
+[shield-unstable]: https://img.shields.io/badge/status-development-red.svg
 [shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
 
 [bp-tracker-particle]: https://github.com/BP-Tracker/bp-tracker-particle
