@@ -9,7 +9,7 @@ This project is still work in progress. More details to come.
 Overview
 -----------------
 
-<img width="400px" src="https://rawgit.com/BP-Tracker/BP-Tracker.github.io/master/assets/images/network-overview.png" alt="Network overview" />
+<img width="200px" src="https://rawgit.com/BP-Tracker/BP-Tracker.github.io/master/assets/images/network-overview.png" alt="Network overview" />
 
 
 #### Project sites
